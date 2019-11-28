@@ -1,6 +1,7 @@
 # KNIJN Crypter
 
 KNIJN Crypter is a text crypter to sollidify and offload E2EE (end-2-end encryption) and aid privacy.
+
 [Download here!](https://github.com/BRUHItsABunny/KNIJN-Crypter/releases/)
 
 ### Motivation
@@ -37,6 +38,10 @@ After the key negotiation it uses the NaCL libSodium libaries to encrypt and dec
 Given this current release is an open beta, there are bugs and a very distinct lack of documentation is clearly visible.
 
 In the future I plan to add GIF's and videos and actual documentation as well as more features and bugfixes.
+
+### Yea, cool bro but where is the source?
+
+At this point in time I'm not sure if I want to open this project up to the public yet, though I do understand that means that there can't be security audits either.
 
 ### Known issues
 
