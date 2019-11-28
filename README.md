@@ -1,6 +1,7 @@
 # KNIJN Crypter
 
 KNIJN Crypter is a text crypter to sollidify and offload E2EE (end-2-end encryption) and aid privacy.
+[Download here!](https://github.com/BRUHItsABunny/KNIJN-Crypter/releases/)
 
 ### Motivation
 
