@@ -46,7 +46,6 @@ At this point in time I'm not sure if I want to open this project up to the publ
 ### Known issues
 
 There are a few known issues present as of now:
-* The automatic decryption doesn't work when dealing with chat bubble messengers like FB messenger.
-* The toast message pop up timing control flashes and on Android 10 straight up fails to do what it's supposed to do.
+* The automatic decryption doesn't work when dealing with Android 10 or higher (this is an OS limitation imposed by Google)
 
 If you find any new issues feel free to open an issue in the Issues tab on GitHub and port it there, don't forget to take screenshot and/or screen recordings for the easiest problem solving (logcat from rooted users is welcome too!).
